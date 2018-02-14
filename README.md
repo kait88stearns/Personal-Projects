@@ -5,9 +5,9 @@
 
 
 ### Lyrics_Scraper
-  genius_scraping.py is a function I wrote to easily scrape song lyrics from Genius.com. ... 
-...  Genius_album_scrape.ipynb is a jupyter notebook demonstrating the use of my scraping function. ...
+  genius_scraping.py is a function I wrote to easily scrape song lyrics from Genius.com.   
+  Genius_album_scrape.ipynb is a jupyter notebook demonstrating the use of my scraping function.   
 
 ### Instagram_scraping
-  scrape_insta.py is a function to scrape contents of a certain user's Instagram posts. ...
-...  insta_scrape.ipynb is a jupyter notebook demonstrating the use of my scraping function. ...
+  scrape_insta.py is a function to scrape contents of a certain user's Instagram posts.    
+  insta_scrape.ipynb is a jupyter notebook demonstrating the use of my scraping function.    
